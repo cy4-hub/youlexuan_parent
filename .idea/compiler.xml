@@ -25,6 +25,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo_freemark" target="1.8" />
+      <module name="helloworld" target="1.8" />
       <module name="youlexuan_sellergoods_interface" target="1.8" />
       <module name="youlexuan_sellergoods_service" target="1.8" />
       <module name="youlexuanportalweb" target="1.8" />

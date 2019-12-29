@@ -26,6 +26,7 @@
         <module>youlexuan_page_interface</module>
         <module>youlexuan_page_service</module>
         <module>youlexuan_page_web</module>
+        <module>helloworld</module>
 
 
     </modules>

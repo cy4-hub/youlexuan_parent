@@ -23,6 +23,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/demo_freemark/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/youlexuan-portal-web/pom.xml" />
         <option value="$PROJECT_DIR$/youlexuan_sellergoods_interface/pom.xml" />
         <option value="$PROJECT_DIR$/youlexuan_sellergoods_service/pom.xml" />
